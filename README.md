@@ -1,6 +1,6 @@
 # Welcome!
 
-### If you are here looking for my personal website, go to [https://www.jhelvy.com/](https://www.jhelvy.com/)
+### If you are here looking for my personal website, it is now located [here](https://www.jhelvy.com/)
 
 This domain name is reserved for documentation pages for different projects I maintain, including:
 
