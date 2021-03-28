@@ -1,7 +1,0 @@
----
-title: "Blog"
-twitter:
-  creator: "@JohnHelveston"
-preview: images/helveston.jpg
-listing: posts
----

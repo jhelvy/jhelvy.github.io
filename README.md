@@ -1,18 +1,11 @@
+# Welcome!
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+### If you are here looking for my personal website, go to https://www.jhelvy.com/
 
-<!-- badges: start -->
+This domain name is reserved for documentation pages for different projects I maintain, including:
 
-[![Render & Deploy
-Site](https://github.com/jhelvy/jhelvy.github.io/actions/workflows/build_site.yml/badge.svg?branch=master)](https://github.com/jhelvy/jhelvy.github.io/actions/workflows/build_site.yml)
-[![Netlify
-Status](https://api.netlify.com/api/v1/badges/8e836ec0-395a-44dc-adb2-03bb2f387e4c/deploy-status)](https://app.netlify.com/sites/jhelvy/deploys)
-<!-- badges: end -->
-
-Home page for my [personal website](https://jhelvy.github.io/), built
-using the [{distill}](https://rstudio.github.io/distill/) package.
-
-This is still a work in progress.
-
-Go to [jhelvy.com](http://www.jhelvy.com/) to see my more up-to-date
-personal website, which will eventually all be moved to this repo.
+- [{logitr}](https://jhelvy.github.io/logitr/)
+- [{xaringanBuilder}](https://jhelvy.github.io/xaringanBuilder/)
+- [{conjointTools}](https://jhelvy.github.io/conjointTools/)
+- [R for Analytics Primer](https://jhelvy.github.io/r4aPrimer/)
+- [λέξις: a xaringan theme](https://jhelvy.github.io/lexis/)
